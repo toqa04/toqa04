@@ -2,6 +2,9 @@
 I’m a final-year Software Engineering student, working hard to improve and focus on my upcoming projects. I’m particularly interested in Full-Stack development, with a special focus on backend development. 
 I have a strong passion for Java .
  also,I love programming memes😄
+ ![hi](https://res.cloudinary.com/dn1xklmba/image/upload/c_limit,w_150/v1771365569/batmang_wcfsuj.gif)
+
+
 
 # Tech Stack  
 - **Languages**:  
