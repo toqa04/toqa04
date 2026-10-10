@@ -140,11 +140,11 @@ A task management application focused on separation of concerns and maintainable
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=omni&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=toqa04&show_icons=true&theme=omni&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=omni&hide_border=true" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toqa04&layout=compact&theme=omni&hide_border=true" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=omni&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=toqa04&theme=omni&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
