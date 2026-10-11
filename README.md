@@ -160,7 +160,7 @@ A task management application focused on separation of concerns and maintainable
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=toqa04&style=flat-square&color=F48FB1&label=PROFILE+VISITORS" alt="Profile Views" />
+
 
 ### *Keep learning, keep building, keep blooming.* 🌷
 
